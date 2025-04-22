@@ -1,0 +1,39 @@
+# .NET and .NET Core
+*.exe
+*.dll
+*.pdb
+*.nuget/
+*.user
+*.suo
+*.ilk
+*.idb
+*.log
+*.cache
+*.nupkg
+*.snupkg
+*.vs/
+*.vscode/
+obj/
+bin/
+TestResults/
+
+# ASP.NET-specific
+appsettings.json
+appsettings.*.json
+wwwroot/
+node_modules/
+
+# Docker-related files
+*.tar
+*.img
+Dockerfile
+docker-compose.yml
+docker-compose.override.yml
+.dockerignore
+**/.docker/
+**/*.dockerenv
+
+# Miscellaneous
+*.DS_Store
+*.env
+Thumbs.db
