@@ -18,18 +18,18 @@ bin/
 TestResults/
 
 # ASP.NET-specific
-appsettings.json
-appsettings.*.json
-wwwroot/
+#appsettings.json
+#appsettings.*.json
+#wwwroot/
 node_modules/
 
 # Docker-related files
 *.tar
 *.img
-Dockerfile
-docker-compose.yml
-docker-compose.override.yml
-.dockerignore
+#Dockerfile
+#docker-compose.yml
+#docker-compose.override.yml
+#.dockerignore
 **/.docker/
 **/*.dockerenv
 
